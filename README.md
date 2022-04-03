@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @Jules-sh
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Flutter and Dart for Mobile Development
--    Also I'm learing Swift / SwiftUI and Kotlin for Native Development
-- 💞️ I’m looking to collaborate on ...
+- 💻 I'm a Flutter and Dart Developer, who develops Applications for the big Platforms out there.
+  - Android
+  - IOS
+  - macOS
+  - Windows
+  - Linux
+- Everything on one Code Base 
 - 📫 You can reach me over Julian.n.Schumacher@outlook.de
 
 <!---
