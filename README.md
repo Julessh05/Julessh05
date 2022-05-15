@@ -7,7 +7,7 @@
   - Windows
   - Linux
 - Everything on one Code Base 
-- 📫 You can reach me over Julian.n.Schumacher@outlook.de
+- 📫 You can reach me over Jules.media@outlook.de
 
 <!---
 Jules-sh/Jules-sh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
