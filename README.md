@@ -37,3 +37,9 @@ I'm part of the Jules-Media Organization, an Organization I created myself to ma
 
 ## Contact
 I'm always happy to hear from you, so if you got any questions, you can reach me via E-mail: Jules.media@outlook.de
+
+
+## Socials
+[LinkedIn](https://www.linkedin.com/in/julian-schumacher-b6005021a/) \
+[Instagram](https://www.instagram.com/jules.media/) \
+[Twitter](https://twitter.com/jules_media)
