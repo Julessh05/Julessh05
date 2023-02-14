@@ -1,21 +1,34 @@
 # Hi 👋🏼
-I'm Julian Schumacher, an 17 year old Student at Philipp-Matthäus-Hahn School, building and improving my
+
+I'm Julian Schumacher, an 18 year old Student at Philipp-Matthäus-Hahn School, building and improving my
 Coding skills.
 
+
 ## About me
+
 I'm a Student at a Gymnasium with special interest in Technic and Coding. \
 But mostly I'm still developing my Skills in my free Time and on my own.
 
+
 ## My Work
-Currently I'm developing Apps and Packages with Google's Flutter Framework and the underlying Language Dart. \
-I'm also impoving my Kotlin, Java and Swift Skills on the way. \
-All my Flutter Apps are running on Android and IOS, most of them on Windows, Linux and macOS too. All on one Codebase.
-But I'm not only a Developer, I'm also an UI / UX Designer, which you can see in my App Designs, built with the help of Material Design. In my most recet Apps with Material 3.
-But it's always better to see something than to hear it. So why don't you take a look at my Projects and built your one Impression.
+
+### Development
+
+Currently I'm developing native Apps for Apple devices using Swift and Swift UI. \
+I'm also developing Apps and Packages with Google's Flutter Framework and the underlying Language Dart. \
+Along with that, I'm improving my native Android development skills with Kotlin.
+
+## UI / UX
+
+I've also got some experience in User Interface and User Experience Design, both with Apple's [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview/) and Google's [Material 3](https://m3.material.io) UI and UX Design Systems.
+
+
 
 ## My Setup
+
 ### Hardware
-I'm the minimalistic type of person, so I only use my MacBook and an external Monitor for development.  
+
+I'm the minimalistic type of person, so I only use my MacBook for development.  
 
 MacBook:
 - 2020 MacBook Air
@@ -25,17 +38,25 @@ MacBook:
 
 For Testing I use the Android Emulator that comes with Android Studio and the IOS Simulator that comes with Xcode
 
+
 ### Software
-For development I'm currently using Visual Studio Code most of the Time. \
-For Android build Configurations I use Android Studio. \
-Sometimes I'm coding in Intellij IDEA Community Edition. \
-For IOS / macOS Specific Coding I'm using Xcode.
+
+I'm using a lot of different Software to develop my Apps:
+- Xcode for iOS and macOS Apps (Swift, SwiftUI, ...)
+- Android Studio for Android Apps (Kotlin, Java, XML, ...)
+- Figma
+- [Penpot](https://penpot.app)
 
 
-## Organizations:
-I'm part of the Jules-Media Organization, an Organization I created myself to manage my Dart and Flutter Plugins / Packages.
+## Organizations
+
+I created a few Organizations to sort, manage and group my Projects. \
+The Jules Media Organization contains nearly all my Flutter Packages and Plugins. \
+The School Organization contains all the stuff we are doing in school. (kinda obvious)
+
 
 ## Contact
+
 I'm always happy to hear from you, so if you got any questions, you can reach me via E-mail: Jules.media@outlook.de
 
 
