@@ -44,7 +44,7 @@ For Testing I use the Android Emulator that comes with Android Studio and the IO
 I'm using a lot of different Software to develop my Apps:
 - [Xcode](https://developer.apple.com/xcode/) for iOS and macOS Apps (Swift, SwiftUI, ...)
 - [Android Studio](https://developer.android.com/studio) for Android Apps (Kotlin, Java, XML, ...)
-- Figma
+- [Figma](https://www.figma.com)
 - [Penpot](https://penpot.app)
 
 
