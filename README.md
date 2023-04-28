@@ -70,6 +70,11 @@ I'm always happy to hear from you, so if you got any questions, you can reach me
 
 ### Organizations
 
+#### Jules Media
 
-[Instagram](https://www.instagram.com/jules.media/) \
+[Instagram](https://www.instagram.com/jules.media) \
 [Twitter](https://twitter.com/jules_media)
+
+#### The Intuitive Company
+
+[Twitter](https://twitter.com/theintuitivecom)
