@@ -57,7 +57,7 @@ The School Organization contains all the stuff we are doing in school. (kinda ob
 
 ## Contact
 
-I'm always happy to hear from you, so if you got any questions, you can reach me via E-mail: Jules.media@outlook.de
+I'm always happy to hear from you, so if you got any questions, you can reach me via [E-mail](mailto:professional@julianschumacher.dev).
 
 
 ## Socials
