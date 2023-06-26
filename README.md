@@ -67,14 +67,3 @@ I'm always happy to hear from you, so if you got any questions, you can reach me
 [LinkedIn](https://www.linkedin.com/in/julian-schumacher-b6005021a/) \
 [Instagram](https://www.instagram.com/julessh05/) \
 [Twitter](https://twitter.com/julessh05)
-
-### Organizations
-
-#### Jules Media
-
-[Instagram](https://www.instagram.com/jules.media) \
-[Twitter](https://twitter.com/jules_media)
-
-#### The Intuitive Company
-
-[Twitter](https://twitter.com/theintuitivecom)
