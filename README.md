@@ -1,6 +1,6 @@
 # Hi 👋🏼
 
-I'm Julian Schumacher, an 18 year old Student at Philipp-Matthäus-Hahn School, building and improving my
+I'm Julian Schumacher, an 19 year old Student at Philipp-Matthäus-Hahn School, building and improving my
 Coding skills.
 
 
