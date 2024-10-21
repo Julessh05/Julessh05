@@ -1,12 +1,12 @@
 # Hi 👋🏼
 
-I'm Julian Schumacher, an 19 year old Student at Philipp-Matthäus-Hahn School, building and improving my
+I'm Julian Schumacher, an 19 year old Student at DHBW-Stuttgart, building and improving my
 Coding skills.
 
 
 ## About me
 
-I'm a Student at a Gymnasium with special interest in Technic and Coding. \
+I'm a Student at DHBW-Stuttgart with special interest in Technic and Coding. \
 But mostly I'm still developing my Skills in my free Time and on my own.
 
 
